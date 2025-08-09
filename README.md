@@ -1,12 +1,13 @@
 # 💫 About Me
 
-Hi, I'm **Anmol Nandurkar**, a passionate **Computer Science Engineering** student in my second year at **G.H. Raisoni College of Engineering and Management**, Nagpur, Maharashtra. I have a deep interest in **technology** and **innovation**, with a focus on **web development**, **app development**, **AI**, and **cybersecurity**. 🚀
+I’m Anmol Nandurkar, a CSE student passionate about web security and building systems that are not only functional but also resilient against cyber threats.
 
-I enjoy building **real-world projects** and am currently working on a **college website**, utilizing technologies like **HTML**, **CSS**, **PHP**, **JavaScript**, and **MySQL** for data management and storage. Exploring the world of **AI** is a major part of my journey, and I leverage **AI tools** to enhance my productivity and work efficiency. 🤖
+🔍 Exploring vulnerabilities in web applications & learning secure coding practices
 
-I am always eager to learn and collaborate on **exciting tech projects** that challenge my creativity and problem-solving skills. I’m driven by the constant evolution of technology and its impact on our lives. 🌍
+💻 Tech Stack: HTML, TailwindCSS, JavaScript, PHP, MySQL, MongoDB
 
-Feel free to reach out if you're interested in connecting or collaborating on any project! 🤝
+🧠 Diving into penetration testing, network security, and threat analysis
+
 
 ---
 
